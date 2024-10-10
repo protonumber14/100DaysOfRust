@@ -3,7 +3,7 @@ use rand::Rng;
 use std::{cmp::Ordering, io, thread, time};
 
 //code
-pub fn guessing_number_game() {
+pub fn main() {
     println!("Lets begin guessing number game");
     thread::sleep(time::Duration::from_millis(700));
     pub fn guess() -> u16 {

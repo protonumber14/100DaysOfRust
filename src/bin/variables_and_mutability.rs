@@ -1,9 +1,10 @@
 //constant in global scope
 const PI: f32 = 22.0 / 7.0;
-pub fn vi() {
+pub fn main() {
     //Varriables
     let x:u8 = 5;
     let mut y = 20;
+    
     
     y = y + 2;// value changed
 
