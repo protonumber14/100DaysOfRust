@@ -1,5 +1,6 @@
 
 fn main (){
+    println!(" carbby day 🦀");
     //*If expression using let staement*/
     let x:i8=10;
     let x= if x==0{5} else {10};
