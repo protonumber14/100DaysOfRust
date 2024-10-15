@@ -48,4 +48,5 @@ fn main() {
 
 fn change(str: String) {
     println!("Changed string: {str}");
+    println!("Hello");
 }
